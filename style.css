@@ -22,10 +22,10 @@ body , html{
     text-align: center;
     padding: 40px;
 }
-.pimg1{background-image: url(../img/pimg1.jpg);min-height: 100%;}
-.pimg2{background-image: url(../img/pimg2.jpg);}
-.pimg3{background-image: url(../img/pimg3.jpg);}
-.pimg4{background-image: url(../img/pimg4.jpg);min-height: 100%;}
+.pimg1{background-image: url(pimg1.jpg);min-height: 100%;}
+.pimg2{background-image: url(pimg2.jpg);}
+.pimg3{background-image: url(pimg3.jpg);}
+.pimg4{background-image: url(pimg4.jpg);min-height: 100%;}
 
 
 .slight{
